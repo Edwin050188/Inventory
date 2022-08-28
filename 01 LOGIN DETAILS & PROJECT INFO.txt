@@ -2,7 +2,7 @@
 
 **Database Name: inventorymgcsharp**
 
-**Developed by  Edwin Ofosuhene **
+**Developed by by Edwin Ofosuhene **
 
 
 **Admin Login Details**
